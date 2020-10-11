@@ -1,0 +1,59 @@
+<!-- Info boxes -->
+<div class="row">
+    <div class="col-md-3 col-sm-6 col-xs-12">
+        <div class="info-box">
+            <span class="info-box-icon bg-aqua"><i class="ion ion-ios-gear-outline"></i></span>
+
+            <div class="info-box-content">
+                <span class="info-box-text">CPU </span>
+                <span class="info-box-number">{{.CpuNum}}<small>个</small></span>
+            </div>
+            <!-- /.info-box-content -->
+        </div>
+        <!-- /.info-box -->
+    </div>
+    <!-- /.col -->
+    <div class="col-md-3 col-sm-6 col-xs-12">
+        <div class="info-box">
+            <span class="info-box-icon bg-red"><i class="fa fa-google-plus"></i></span>
+
+            <div class="info-box-content">
+                <span class="info-box-text">Golang</span>
+                <span class="info-box-number">{{.GoVersion}}</span>
+            </div>
+            <!-- /.info-box-content -->
+        </div>
+        <!-- /.info-box -->
+    </div>
+    <!-- /.col -->
+
+    <!-- fix for small devices only -->
+    <div class="clearfix visible-sm-block"></div>
+
+    <div class="col-md-3 col-sm-6 col-xs-12">
+        <div class="info-box">
+            <span class="info-box-icon bg-green"><i class="fa fa-keyboard-o"></i></span>
+
+            <div class="info-box-content">
+                <span class="info-box-text">sistema</span>
+                <span class="info-box-number">{{.Goos}}</span>
+            </div>
+            <!-- /.info-box-content -->
+        </div>
+        <!-- /.info-box -->
+    </div>
+    <!-- /.col -->
+    <div class="col-md-3 col-sm-6 col-xs-12">
+        <div class="info-box">
+            <span class="info-box-icon bg-yellow"><i class="fa fa-list-ul"></i></span>
+
+            <div class="info-box-content">
+                <span class="info-box-text">GOROOT</span>
+                <span class="info-box-number">{{.GoRoot}}</span>
+            </div>
+            <!-- /.info-box-content -->
+        </div>
+        <!-- /.info-box -->
+    </div>
+    <!-- /.col -->
+</div>
