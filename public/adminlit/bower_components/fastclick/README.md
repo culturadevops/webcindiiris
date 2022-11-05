@@ -138,3 +138,13 @@ There are no automated tests. The files in `tests/` are manual reduced test case
 ## Credits and collaboration ##
 
 FastClick is maintained by [Rowan Beentje](http://twitter.com/rowanbeentje), [Matthew Caruana Galizia](http://twitter.com/mcaruanagalizia) and [Matthew Andrews](http://twitter.com/andrewsmatt) at [FT Labs](http://labs.ft.com). All open source code released by FT Labs is licenced under the MIT licence. We welcome comments, feedback and suggestions.  Please feel free to raise an issue or pull request.
+
+
+
+# Mis Libros:
+
+[![libros futuro es devops ](https://github.com/culturadevops/recursos/blob/master/portada-futuro-es-devops.png)](https://amzn.to/3S8AGG9) [![libros herramientas devops](https://github.com/culturadevops/recursos/blob/master/portada-herramientasdevops.png)](https://amzn.to/3ga1c4E)
+
+# Mi canal de cultura Devops
+
+[![canal de youtube sobre devops ](https://github.com/culturadevops/recursos/blob/master/logo-culturadevops.png)](https://www.youtube.com/channel/UCfJ67eVA7DkKbbIF5ceJDMA?sub_confirmation=1) 

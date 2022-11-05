@@ -23,3 +23,12 @@ export PATH=$PATH:/usr/local/go/bin
 https://gitee.com/cuijun/iris_demo
 https://gitee.com/yhm_my/go-iris.git
 https://hackernoon.com/a-todo-mvc-application-using-iris-and-vue-js-5019ff870064
+
+
+# Mis Libros:
+
+[![libros futuro es devops ](https://github.com/culturadevops/recursos/blob/master/portada-futuro-es-devops.png)](https://amzn.to/3S8AGG9) [![libros herramientas devops](https://github.com/culturadevops/recursos/blob/master/portada-herramientasdevops.png)](https://amzn.to/3ga1c4E)
+
+# Mi canal de cultura Devops
+
+[![canal de youtube sobre devops ](https://github.com/culturadevops/recursos/blob/master/logo-culturadevops.png)](https://www.youtube.com/channel/UCfJ67eVA7DkKbbIF5ceJDMA?sub_confirmation=1) 
